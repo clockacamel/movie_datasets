@@ -1,0 +1,116 @@
+Year,Movie name,Director name,Gender,Winner
+2001,A Beautiful Mind,Ron Howard,Male,Ron Howard
+2001,Black Hawk Down,Ridley Scott,Male,
+2001,Gosford Park,Robert Altman,Male,
+2001,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,Male,
+2001,Mulholland Drive,David Lynch,Male,
+2002,Chicago,Rob Marshall,Male,
+2002,Gangs of New York,Martin Scorsese,Male,
+2002,The Hours,Stephen Daldry,Male,
+2002,The Pianist,Roman Polanski,Male,Roman Polanski
+2002,The Quiet American,Phillip Noyce,Male,
+2003,City of God,Fernando Meirelles,Male,
+2003,Lost in Translation,Sofia Coppola,Female,
+2003,Master and Commander: The Far Side of the World,Peter Weir,Male,
+2003,Mystic River,Clint Eastwood,Male,
+2003,The Lord of the Rings: The Return of the King,Peter Jackson,Male,Peter Jackson
+2004,The Aviator,Martin Scorsese,Male,
+2004,Million Dollar Baby,Clint Eastwood,Male,Clint Eastwood
+2004,Finding Neverland,Marc Forster,Male,
+2004,Ray,Taylor Hackford,Male,
+2004,Sideways,Alexander Payne,Male,
+2005,Brokeback Mountain,Ang Lee,Male,Ang Lee
+2005,Capote,Bennett Miller,Male,
+2005,Crash,Paul Haggis,Male,
+2005,Good Night, and Good Luck,George Clooney,Male,
+2005,Munich,Steven Spielberg,Male,
+2006,Babel,Alejandro González Iñárritu,Male,
+2006,The Departed,Martin Scorsese,Male,Martin Scorsese
+2006,Letters from Iwo Jima,Clint Eastwood,Male,
+2006,The Queen,Stephen Frears,Male,
+2006,United 93,Paul Greengrass,Male,
+2007,Atonement,Joe Wright,Male,
+2007,The Diving Bell and the Butterfly,Julian Schnabel,Male,
+2007,Juno,Jason Reitman,Male,
+2007,Michael Clayton,Tony Gilroy,Male,
+2007,No Country for Old Men,Joel and Ethan Coen,Male/Male,Joel and Ethan Coen
+2008,The Curious Case of Benjamin Button,David Fincher,Male,
+2008,Frost/Nixon,Ron Howard,Male,
+2008,Milk,Gus Van Sant,Male,
+2008,The Reader,Stephen Daldry,Male,
+2008,Slumdog Millionaire,Danny Boyle,Male,Danny Boyle
+2009,Avatar,James Cameron,Male,
+2009,The Hurt Locker,Kathryn Bigelow,Female,Kathryn Bigelow
+2009,Inglourious Basterds,Quentin Tarantino,Male,
+2009,Precious,Lee Daniels,Male,
+2009,Up in the Air,Jason Reitman,Male,
+2010,Black Swan,Darren Aronofsky,Male,
+2010,The Fighter,David O. Russell,Male,
+2010,The King's Speech,Tom Hooper,Male,Tom Hooper
+2010,The Social Network,David Fincher,Male,
+2010,True Grit,Joel and Ethan Coen,Male/Male
+2011,The Artist,Michel Hazanavicius,Male,Michel Hazanavicius
+2011,The Descendants,Alexander Payne,Male,
+2011,Hugo,Martin Scorsese,Male,
+2011,Midnight in Paris,Woody Allen,Male,
+2011,The Tree of Life,Terrence Malick,Male,
+2012,Amour,Michael Haneke,Male,
+2012,Beasts of the Southern Wild,Benh Zeitlin,Male,
+2012,Life of Pi,Ang Lee,Male,Ang Lee
+2012,Lincoln,Steven Spielberg,Male,
+2012,Silver Linings Playbook,David O. Russell,Male,
+2013,American Hustle,David O. Russell,Male,
+2013,Gravity,Alfonso Cuarón,Male,Alfonso Cuarón
+2013,Nebraska,Alexander Payne,Male,
+2013,12 Years a Slave,Steve McQueen,Male,
+2013,The Wolf of Wall Street,Martin Scorsese,Male,
+2014,Birdman,Alejandro González Iñárritu,Male,Alejandro González Iñárritu
+2014,Boyhood,Richard Linklater,Male,
+2014,Foxcatcher,Bennett Miller,Male,
+2014,The Grand Budapest Hotel,Wes Anderson,Male,
+2014,The Imitation Game,Morten Tyldum,Male,
+2015,The Big Short,Adam McKay,Male,
+2015,Mad Max: Fury Road,George Miller,Male,
+2015,The Martian,Ridley Scott,Male,
+2015,The Revenant,Alejandro González Iñárritu,Male,Alejandro González Iñárritu
+2015,Room,Lenny Abrahamson,Male,
+2016,Arrival,Denis Villeneuve,Male,
+2016,Hacksaw Ridge,Mel Gibson,Male,
+2016,La La Land,Damien Chazelle,Male,Damien Chazelle
+2016,Manchester by the Sea,Kenneth Lonergan,Male,
+2016,Moonlight,Barry Jenkins,Male,
+2017,Dunkirk,Christopher Nolan,Male,
+2017,Get Out,Jordan Peele,Male,
+2017,Lady Bird,Greta Gerwig,Female,
+2017,Phantom Thread,Paul Thomas Anderson,Male,
+2017,The Shape of Water,Guillermo del Toro,Male,Guillermo del Toro
+2018,BlacKkKlansman,Spike Lee,Male,
+2018,Cold War,Paweł Pawlikowski,Male,
+2018,The Favourite,Yorgos Lanthimos,Male,
+2018,Roma,Alfonso Cuarón,Male,Alfonso Cuarón
+2018,Vice,Adam McKay,Male,
+2019,The Irishman,Martin Scorsese,Male,
+2019,Joker,Todd Phillips,Male,
+2019,1917,Sam Mendes,Male,
+2019,Once Upon a Time in Hollywood,Quentin Tarantino,Male,
+2019,Parasite,Bong Joon-ho,Male,Bong Joon-ho
+2020,Another Round,Thomas Vinterberg,Male,
+2020,Mank,David Fincher,Male,
+2020,Minari,Lee Isaac Chung,Male,
+2020,Nomadland,Chloé Zhao,Female,Chloé Zhao
+2020,Promising Young Woman,Emerald Fennell,Female,
+2021,Belfast,Kenneth Branagh,Male,
+2021,Drive My Car,Ryusuke Hamaguchi,Male,
+2021,Licorice Pizza,Paul Thomas Anderson,Male,
+2021,The Power of the Dog,Jane Campion,Female,Jane Campion
+2021,West Side Story,Steven Spielberg,Male,
+2022,All Quiet on the Western Front,Edward Berger,Male,
+2022,The Banshees of Inisherin,Martin McDonagh,Male,
+2022,Everything Everywhere All at Once,Daniel Kwan and Daniel Scheinert,Male/Male,Daniel Kwan and Daniel Scheinert
+2022,Tar,Todd Field,Male,
+2022,The Fabelmans,Steven Spielberg,Male,
+2023,Oppenheimer,Christopher Nolan,Male,Christopher Nolan
+2023,The Whale,Darren Aronofsky,Male,
+2023,Avatar: The Way of Water,James Cameron,Male,
+2023,The Son,Florian Zeller,Male,
+2023,Killers of the Flower Moon,Martin Scorsese,Male
