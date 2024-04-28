@@ -3,7 +3,7 @@ Year,Directors,Top 5 Movies,Genre
 ,Victoria Jenson (co Director),Shrek,Fantasy
 2002,Karen Moncrieff,Blue Car,Drama
 ,Callie Khouri ,Divine Secrets of the Ya-Ya Sisterhood,Comedy
-,Julie Taymor ,Frida,Biographical
+,Julie Taymor ,Frida,Biography
 ,Laurel Canyon,Lisa Cholodenko,Drama
 2003,Jane Campion ,In The Cut,Thriller
 ,Sofia Coppola,Lost in Translation,Rom-com
@@ -18,7 +18,7 @@ Year,Directors,Top 5 Movies,Genre
 ,Martha Coolidge,The Prince & Me,Rom-com
 ,Jessica Sharzer,Speak,Drama
 ,Nicole Kassell,The Woodsman,Horror
-2005,Karyn Kusama,Æon Flux,Sci-fi
+2005,Karyn Kusama,Æon Flux,Sci-Fi
 ,Rebecca Miller,The Ballad of Jack and Rose,Drama
 ,Angela Robinson,Herbie: Fully Loaded,Comedy
 ,Catherine Hardwicke,Lords of Dogtown,Thriller
@@ -38,7 +38,7 @@ Year,Directors,Top 5 Movies,Genre
 ,Amy Heckerling,I Could Never Be Your Woman,Rom-com
 ,Susanne Bier,Things We Lost in the Fire,Drama
 ,Adrienne Shelly,Waitress,Comedy
-,Angelina Jolie,A Place in Time,Documentry
+,Angelina Jolie,A Place in Time,Documentary
 2008,Courtney Hunt,Frozen River,Thriller
 ,Kathryn Bigelow,The Hurt Locker,Thriller
 ,Kimberly Peirce,Stop-Loss,Thriller
@@ -49,7 +49,7 @@ Year,Directors,Top 5 Movies,Genre
 2009,Mira Nair,Amelia,Romance
 ,Sophie Barthes,Cold Souls,Comedy
 ,Nancy Meyers,It's Complicated,Rom-com
-,Karyn Kusama,Jennifer's Body,Horror Comedy
+,Karyn Kusama,Jennifer's Body,Horror
 ,Katherine Dieckmann,Motherhood,Comedy
 ,Sarah Watt,My Year Without Sex,Comedy
 ,Rebecca Miller,The Private Lives of Pippa Lee,Rom-com
@@ -138,7 +138,7 @@ Year,Directors,Top 5 Movies,Genre
 ,Katherine Dieckmann,Strange Weather,Drama
 ,Elizabeth Wood,White Girl,Thriller
 ,Courtney Hunt,The Whole Truth,Thriller
-,Ingrid Jungermann,Women Who Kill,thriller
+,Ingrid Jungermann,Women Who Kill,Thriller
 2017,Zoe Lister-Jones,Band Aid,Rom-com
 ,Eliza Hittman,Beach Rats,Drama
 ,Sofia Coppola,The Beguiled,Thriller
@@ -189,17 +189,17 @@ Year,Directors,Top 5 Movies,Genre
 ,Sophia Takal,Black Christmas,Horror
 ,Roxanne Benjamin,Body at Brighton Rock,Horror
 ,Tanya Wexler,Buffaloed,Comedy
-,Anna Boden ,Captain Marvel,Sci-fi
+,Anna Boden ,Captain Marvel,Sci-Fi
 ,Lulu Wang,The Farewell,Comedy
 ,Kelly Reichardt,First Cow,Drama
-,Jennifer Lee,Frozen 2,Fanatasy
+,Jennifer Lee,Frozen 2,Fantasy
 ,Kasi Lemmons,Harriet,Biography
 ,Lorene Scafaria,Hustlers,Comedy
 ,Jennifer Reeder,Knives and Skin,Thriller
 ,Greta Gerwig,Little Women,Romance
 ,Catherine Hardwicke,Miss Bala,Thriller
 ,Ma?gorzata Szumowska,The Other Lam,Horror
-,Melina Matsoukas,Queen & Slim,Romance Thriller
+,Melina Matsoukas,Queen & Slim,Romance
 ,Chelsea Stardust,Satanic Panic,Horror
 ,Joanna Hogg,The Souvenir,Romance
 ,Lynn Shelton,Sword of Trust,Comedy
@@ -228,13 +228,13 @@ Year,Directors,Top 5 Movies,Genre
 ,Patty Jenkins,Wonder Woman 1984,Action
 ,Mona Fastvold,The World to Come,Drama
 2021,Amy Koppelman,A Mouthful of Air,Drama
-,Cate Shortland,Black Widow,Sci-fi
+,Cate Shortland,Black Widow,Sci-Fi
 ,Nia DaCosta,Candyman,Horror
 ,Chloé Zhao,Eternals,Action
 ,Megan Park,The Fallout,Drama
 ,Axelle Carolyn,The Manor,Horror
 ,Hannah Marks,"Mark, Mary & Some Other People",Rom-com
-,Lana Wachowski,The Matrix Resurrections,Sci-fi
+,Lana Wachowski,The Matrix Resurrections,Sci-Fi
 ,Karen Cinorre,Mayday,Action
 ,Ana Lily Amirpour,Mona Lisa and the Blood Moon,Thriller
 ,Lauren Hadaway,The Novice,Thriller
@@ -250,7 +250,7 @@ Year,Directors,Top 5 Movies,Genre
 ,Mimi Cave,Fresh,Horror
 ,Rebekah McKendry,Glorious,Horror
 ,Katie Aselton,Mack & Rita,Comedy
-,Mali Elfman,Next Exit,Sci-fi
+,Mali Elfman,Next Exit,Sci-Fi
 ,Maria Schrader,She Said,Drama
 ,Kelly Reichardt,Showing Up,Comedy
 ,Josephine Decker,The Sky Is Everywhere,Romance
@@ -271,7 +271,7 @@ Year,Directors,Top 5 Movies,Genre
 ,Adele Lim,Joy Ride,Comedy
 ,Teresa Sutherland,"Lovely, Dark, and Deep",Horror
 ,Catherine Hardwicke,Mafia Mamma,Comedy
-,Nia DaCosta,The Marvels,Sci-fi
+,Nia DaCosta,The Marvels,Sci-Fi
 ,Celine Song,Past Lives,Romance
 ,Jennifer Reeder,Perpetrator,Horror
 ,Sofia Coppola,Priscilla,Biography
