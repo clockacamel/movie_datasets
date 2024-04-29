@@ -4,7 +4,7 @@ Year,Directors,Top 5 Movies,Genre
 ,Jeong Jae-eun,Take Care of My Cat,Drama
 2002,Lee Jeong-hyang,The Way Home,Drama
 ,Mi-yeon Lee,Bus Stop,Romance
-,Ji-eun Mo,A Perfect Match,Romance Comedy
+,Ji-eun Mo,A Perfect Match,Rom-com
 ,Park Chan-ok,Jealousy Is My Middle Name,Romance
 2003,Soo Yeon Lee,The Uninvited,Horror
 ,Lee Eon-hie,...ing,Thriller
@@ -14,14 +14,14 @@ Year,Directors,Top 5 Movies,Genre
 2004,Lisa Sleeth (Co-directed),Seoul Train,Documentary
 2005,Bang Eun-jin,Princess Aurora,Thriller
 2006,So Yong Kim,In Between Days,Romance
-2007,Hyun-hee Sohn,The Worst Man of My Life,Romance Comedy
+2007,Hyun-hee Sohn,The Worst Man of My Life,Rom-com
 ,July Jung,A Man Under the Influenza,Drama
 ,Mi-jung Kim,Shadows in the Palace,Thriller
-,Kim Ho-jung (co-directed),My Tutor Friend 2,Romance Comedy
+,Kim Ho-jung (co-directed),My Tutor Friend 2,Rom-com
 2008,Lee Han-na,Sleeping Beauty,Drama
 ,Yim Soon-rye,Forever the Moment,Drama
-,Lee Kyoung-mi,Crush and Blush,Romance Comedy
-2009,Hong Ji Young,The Naked Kitchen,Romance Comedy
+,Lee Kyoung-mi,Crush and Blush,Rom-com
+2009,Hong Ji Young,The Naked Kitchen,Rom-com
 ,Bang Eun-jin,If You Were Me 4,Drama
 ,Ounie Lecomte,A Brand New Life,Thriller
 ,Yim Soon-rye,"Fly, Penguin",Drama
@@ -38,7 +38,7 @@ Year,Directors,Top 5 Movies,Genre
 ,Shin Su-won,Pluto,Thriller
 2013,Gina Kim,Final Recipe,Romance
 ,Yim Soon-rye,Namjjog-Eulo Twieo,Thriller
-,Hong Ji Young,Marriage Blue,Romance Comedy
+,Hong Ji Young,Marriage Blue,Rom-com
 ,Bang Eun-jin,Way Back Home,Thriller
 2014,July Jung,A Girl at My Door,Thriller
 ,Yim Soon-rye,Whistle Blower,Thriller
@@ -66,8 +66,8 @@ Year,Directors,Top 5 Movies,Genre
 2021,Seo You-min,Recalled,Thriller
 ,Kim Soo Jung,Unboxing Girl,Romance
 ,Hong Sung-eun,Aloners,Thriller
-,Hong Ji Young,New Year Blues,Romance Comedy
-2022,Hyeon-jin Park,Love and Leashes,Romance Comedy
+,Hong Ji Young,New Year Blues,Rom-com
+2022,Hyeon-jin Park,Love and Leashes,Rom-com
 ,Bang Woo-ri,20th Century Girl,Romance
 ,July Jung,Next Sohee,Thriller
 ,Jeong Ji-yeon,Anchor,Thriller
